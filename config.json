@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervonnect",
+        "uuid": 39198706,
+        "checksum": "fl74d9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
